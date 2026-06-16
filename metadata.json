@@ -1,0 +1,6 @@
+{
+  "name": "Wypożyczalnia Dostawczych Skarżysko",
+  "description": "Profesjonalna wypożyczalnia samochodów dostawczych i autolawet w Skarżysku-Kamiennej. Policz koszty wynajmu i zarezerwuj online furgon blaszak, kontener lub autolawetę w 2 minuty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
